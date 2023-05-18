@@ -66,6 +66,7 @@
     width: 100%;
     display: flex;
     align-items: center;
+    margin: 0 auto 110px auto;
 }
 .txt-2 .cont_text {
     width: 700px;
@@ -86,6 +87,11 @@
 
 .txt-3 {
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.txt-3 .cont_text {
+    width: 960px;
 }
 .txt-3 .cont_text b {
     font-size: 40px;
@@ -103,4 +109,7 @@
     border-radius: 36px;
     text-decoration: none;
     color: #000;
+}
+.txt-3 img {
+    width: 630px;
 }
