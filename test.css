@@ -50,7 +50,7 @@
     font-size: 36px;
     margin: 52px 0;
     /* line-height - 줄간격:폰트사이즈 폼함된 상하의 값 */
-    line-height: 43px;
+    line-height: 60px;
     color: #545454;
 }
 .txt-1 > a {
@@ -101,7 +101,7 @@
 }
 .txt-3 .cont_text p {
     font-size: 34px;
-    line-height: 43px;
+    line-height: 50px;
     margin: 52px 0;
 }
 .txt-3  a {
